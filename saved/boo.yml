@@ -1,0 +1,10 @@
+--- |
+  --- !ruby/object:Game
+  letters:
+  - ''
+  - o
+  tries_left: 9
+  word_chosen: brimful
+  word_to_guess: '_ _ _ _ _ _ _ '
+  letter: save
+  good_answer: false

@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+letters:
+- ''
+- p
+tries_left: 9
+word_chosen: Albertan
+word_to_guess: '_ _ _ _ _ _ _ _ '
+letter: save
+good_answer: false

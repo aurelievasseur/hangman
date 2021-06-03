@@ -1,0 +1,9 @@
+--- !ruby/object:Game
+letters:
+- ''
+- o
+tries_left: 10
+word_chosen: conjointly
+word_to_guess: '_ o _ _ o _ _ _ _ _ '
+letter: save
+good_answer: true
